@@ -39,15 +39,15 @@ NSTimeInterval const MDCSnackbarLegacyTransitionDuration = 0.5;
 static const CGFloat MDCSnackbarEnterStartingScale = (CGFloat)0.8;
 
 // How far from the bottom of the screen should the Snackbar be.
-static const CGFloat MDCSnackbarBottomMargin_iPhone = 8;
-static const CGFloat MDCSnackbarBottomMargin_iPad = 24;
+static const CGFloat MDCSnackbarBottomMargin_iPhone = 0;
+static const CGFloat MDCSnackbarBottomMargin_iPad = 0;
 static const CGFloat MDCSnackbarLegacyBottomMargin_iPhone = 0;
 static const CGFloat MDCSnackbarLegacyBottomMargin_iPad = 0;
 
 // How far from the sides of the screen should the Snackbar be.
-static const CGFloat MDCSnackbarSideMargin_CompactWidth = 8;
+static const CGFloat MDCSnackbarSideMargin_CompactWidth = 0;
 static const CGFloat MDCSnackbarLegacySideMargin_CompactWidth = 0;
-static const CGFloat MDCSnackbarSideMargin_RegularWidth = 24;
+static const CGFloat MDCSnackbarSideMargin_RegularWidth = 0;
 
 // The maximum height of the Snackbar.
 static const CGFloat kMaximumHeight = 80;

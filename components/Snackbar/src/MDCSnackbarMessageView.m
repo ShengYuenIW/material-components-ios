@@ -60,7 +60,7 @@ static const CGFloat kBorderWidth = 0;
 /**
  The radius of the corners.
  */
-static const CGFloat kCornerRadius = 4;
+static const CGFloat kCornerRadius = 0;
 static const CGFloat kLegacyCornerRadius = 0;
 
 /**
